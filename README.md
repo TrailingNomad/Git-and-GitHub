@@ -11,3 +11,5 @@ This gives a brief note on the steps to follow regarding the following:
 * Resolving conflicts
 
 * Undoing Changes
+
+Reference : Git and GitHub for beginners by Free Code Camp
